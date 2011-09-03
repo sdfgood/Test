@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reshaem", "Reshaem\Reshaem.csproj", "{BE2E975D-2531-4DB6-9C64-A0E494D5B371}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reshaem.Tests", "Reshaem.Tests\Reshaem.Tests.csproj", "{8707DF81-2E7A-4F87-936B-621B4AA03539}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE2E975D-2531-4DB6-9C64-A0E494D5B371}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE2E975D-2531-4DB6-9C64-A0E494D5B371}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE2E975D-2531-4DB6-9C64-A0E494D5B371}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE2E975D-2531-4DB6-9C64-A0E494D5B371}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8707DF81-2E7A-4F87-936B-621B4AA03539}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8707DF81-2E7A-4F87-936B-621B4AA03539}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8707DF81-2E7A-4F87-936B-621B4AA03539}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8707DF81-2E7A-4F87-936B-621B4AA03539}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+D:\Work\Reshaem\Reshaem\bin\Reshaem.dll
+D:\Work\Reshaem\Reshaem\bin\Reshaem.pdb
+D:\Work\Reshaem\Reshaem\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Reshaem\Reshaem\obj\Debug\Reshaem.dll
+D:\Work\Reshaem\Reshaem\obj\Debug\Reshaem.pdb
